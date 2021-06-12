@@ -1,0 +1,16 @@
+生成的四元式如下
+序号	OP	ARG1	ARG2	RESULT
+1	SCANF	n	/	/
+2	SCANF	m	/	/
+3	+	n	m	T1
+4	=	T1	/	sum1
+5	PRINTF	sum1	/	/
+6	-	n	m	T2
+7	=	T2	/	sub1
+8	PRINTF	sub1	/	/
+9	*	n	m	T3
+10	=	T3	/	mul1
+11	PRINTF	mul1	/	/
+12	/	n	m	T4
+13	=	T4	/	div1
+14	PRINTF	div1	/	/
